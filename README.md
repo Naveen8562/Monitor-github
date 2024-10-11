@@ -2,6 +2,7 @@
 Monitor Github &amp; Gitlab on Grafana 
 
 Monitoring GitHub and GitLab on Grafana is a great way to track repository activity, CI/CD pipelines, issue status, pull/merge requests, and other metrics. This can be accomplished by collecting metrics from these platforms and visualizing them in Grafana. Here’s a step-by-step guide on how you can monitor GitHub and GitLab using Grafana.
+![image](https://github.com/user-attachments/assets/629d1779-8b5f-4198-b658-c27d2ed16723)
 
 1. Monitor GitHub on Grafana:
 a. Using GitHub API as a Data Source:
